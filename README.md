@@ -11,7 +11,6 @@
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/sebastian-diaz-13831720a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sebastian-diaz-13831720a" height="30" width="40" /></a>
-<a href="https://discord.gg/juandiaz5183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="juandiaz5183" height="30" width="40" /></a>
 </p>
 
 
