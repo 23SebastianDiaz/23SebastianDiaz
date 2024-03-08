@@ -2,7 +2,7 @@
 <h3 align="center">Junior Developer 🚀</h3>
 <img align="right" alt="Coding" src="https://marcopilloni.com/Resources/avatar.svg">
 <h3 align="left">Sobre mi:</h3>
-<p align="justify" >Actualmente me encuentro cursando la carrera de Tecnologia en Informatica en universidad Uniminuto. Siempre buscando la manera de adquirir nuevos conocimientos, nuevas habilidades y crecer profesionalmente. Motivado, apto para el trabajo en equipo y con habilidades interpersonales. Con foco al desarrollo de aplicaciones moviles y sitios web.
+<p align="justify" >Actualmente me encuentro cursando la carrera de Tecnología en Informática en universidad Uniminuto. Siempre buscando la manera de adquirir nuevos conocimientos, nuevas habilidades y crecer profesionalmente. Motivado, apto para el trabajo en equipo y con habilidades interpersonales. Con foco al desarrollo de aplicaciones móviles y sitios web.</p>
 
 - 🌱Actualmente estoy aprendiendo **Kotlin: Retrofit, Coroutines, Flows, MVVM, ETC...**
 - 📫 Cómo ponerse en contacto conmigo **sdiaz6376@gmail.com** </p>
