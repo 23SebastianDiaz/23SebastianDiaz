@@ -5,8 +5,8 @@
 <p align="justify" >Actualmente me encuentro cursando la carrera de Tecnología en Informática en universidad Uniminuto. Siempre buscando la manera de adquirir nuevos conocimientos, nuevas habilidades y crecer profesionalmente. Motivado, apto para el trabajo en equipo y con habilidades interpersonales. Con foco al desarrollo de aplicaciones móviles y sitios web.</p>
 
 - 🌱Actualmente estoy aprendiendo:
-- **Kotlin: Retrofit, Coroutines, Flows, MVVM, ETC...**
-- **Python: Con mySql y Flask.**
+ **Kotlin: Retrofit, Coroutines, Flows, MVVM, ETC...**
+ **Python: Con mySql y Flask.**
 - 📫 Cómo ponerse en contacto conmigo **sdiaz6376@gmail.com** </p>
 
 <h3 align="left">Otros Contactos:</h3>
