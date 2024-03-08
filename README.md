@@ -1,4 +1,5 @@
 <h1 align="center">Hola 👋, Soy Sebastian Diaz</h1>
+<img src"C:\Users\USUARIO\Downloads\icon.jpeg">
 <h3 align="center">Junior Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
