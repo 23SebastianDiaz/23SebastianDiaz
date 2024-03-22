@@ -7,6 +7,7 @@
 - 🌱Actualmente estoy aprendiendo:
  **Kotlin: Retrofit, Coroutines, Flows, MVVM, ETC...**
  **Python: Con mySql y Flask.**
+ **JetpackCompose**
 - 📫 Cómo ponerse en contacto conmigo **sdiaz6376@gmail.com** </p>
 
 <h3 align="left">Otros Contactos:</h3>
